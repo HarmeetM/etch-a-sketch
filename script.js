@@ -4,7 +4,6 @@ const rainbowBtn = document.getElementById('Rainbow');
 const eraserBtn = document.getElementById('Eraser');
 const clearBtn = document.getElementById('Clear');
 const newSize = document.getElementById('newBoard');
-const buttonsContainer = document.querySelector('buttons')
 /*const slideySlider = document.getElementById('myRange');
 const sliderValue = document.getElementById('Cells');
 const gridItems = document.getElementById('grid-item');
